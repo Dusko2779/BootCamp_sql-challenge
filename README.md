@@ -22,6 +22,9 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 
 Import each CSV file into its corresponding SQL table.
 
+![image](https://github.com/Dusko2779/BootCamp_sql-challenge/assets/134830906/69c0fa74-3d0c-4599-8074-437d06dce1d1)
+
+
 ### HINT
 Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
